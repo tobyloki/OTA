@@ -5,7 +5,7 @@
 - chrome -> settings -> advanced -> manage certificates -> (tab) trusted root certificate authorities
   - 1. export ```[DigiCert High Assurance EV Root CA]``` as ```Base-64 encoded X.509 (.CER)```
   
-    <img src="https://github.com/gearsmotion789/OTA/blob/master/esp8266/images/certs.PNG" width="400">
+    <img src="https://github.com/gearsmotion789/OTA/blob/master/images/certs.PNG" width="400">
     
   - 2. rename to ```ca_cert.pem``` format
   
